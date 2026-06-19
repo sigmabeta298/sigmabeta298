@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Syamanthaka
 
-<!--
-**sigmabeta298/sigmabeta298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise Architecture | Solution Architecture | Cloud Strategy | AI
 
-Here are some ideas to get you started:
+Technology has always been a constant throughout my career. Regardless of the role, I enjoy understanding how systems fit together, solving complex business problems, and designing solutions that balance technical excellence with practical outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests span enterprise architecture, cloud platforms, AI-enabled solutions, systems integration, and technology strategy.
+
+---
+
+## Areas of Interest
+
+* Enterprise Architecture
+* Solution Architecture
+* Cloud Architecture
+* AI & Intelligent Systems
+* Systems Integration
+* Technology Strategy
+
+---
+
+## Current Focus
+
+* Enterprise Architecture practices and frameworks
+* Cloud-native solution design
+* AI-assisted enterprise solutions
+* Scalable integration architectures
+* Building practical proof-of-concepts
+
+---
+
+## Featured Projects
+
+Explore the pinned repositories below for architecture case studies, cloud solutions, AI projects, and technical experiments.
+
+---
+
+## Connect
+
+* Portfolio: https://syamanthaka.in
+* LinkedIn: https://linkedin.com/in/sb8
